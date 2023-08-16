@@ -21,7 +21,7 @@ a {
 .header {
     background-color: #1f2937;
     color:#F9FAF8;
-    padding: 16px;
+    padding: 32px;
     display: flex;
     flex-direction: column;
 }
@@ -29,6 +29,7 @@ a {
 .nav {
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .header-logo {
@@ -64,7 +65,7 @@ a {
     font-weight: bold;
     padding: 8px;
     border-radius: 8px;
-    max-width: 120px;
+    max-width: 120px;6
     border-color: transparent;
 }
 
