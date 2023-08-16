@@ -2,4 +2,4 @@
 
 This is a little study project from The Odin Project curriculum i made using basic CSS/HTML skills.
 
-TODO: link.
+Live page link: https://stapleru.github.io/landing-page/
