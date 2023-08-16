@@ -102,11 +102,33 @@ a {
     flex-wrap: wrap;
     gap: 32px;
     justify-content: center;
-    margin: 32px 0px;
+    margin: 64px 0px;
 }
 
 .content {
     max-width: 205px;
     text-align: center;
     font-size: 18px;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    color: #3c3d3d;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-style: italic;
+    padding: 64px 15%;
+    gap: 0.5em;
+}
+
+.quote-text {
+    max-width: 600px;
+    font-size: 36px;
+}
+
+.quote-author {
+    font-weight: bolder;
+    font-size: 24px;
+    align-self: flex-end;
 }
